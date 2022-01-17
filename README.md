@@ -1,7 +1,7 @@
 # GitVersionhallinta
 
 1. Pullaa tämä repository
-2. Luo pullaamaasi Master haaraan oma branch ja nimeä se omalla nimelläsi // git branch ohjeet esim googlaamalla tai  materiaalia kahlaamalla
+2. Luo pullaamaasi Master haaraan oma branch ja nimeä se omalla nimelläsi // git branch ohjeet esim googlaamalla tai  materiaalia lukemalla
 3. Lisää muokkaajat tiedostoon oma rivisi, jossa kerrot lempivärisi tai harrastuksesi. Muista laittaa riville myös oma nimesi. // voit käyttää joko nano-editoria muistiota
 4. Luo kansio ja nimeä se GitHub tunnuksellasi Git Bashissa (mkdir) Kansiot kansioon ja lisää luomaasi kansioon tiedosto peli.txt käyttäen echo käskyä, kirjoita tiedostoon sen pelin nimi, jota viimeksi pelasit //open esimerkki:  $ mkdir JenKalliosto $ cd JenKalliosto $ echo "Far Cry 6" >> peli.txt
 5. Lisää muutoksesi Staging Areaan ja suorita Commit
