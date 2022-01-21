@@ -7,4 +7,4 @@
 5. Lisää muutoksesi Staging Areaan ja suorita Commit
 6. Tarkista että lokaali branch on ajan tasalla master branchin kanssa käyttämällä seuraavia komentoja: checkout, fetch, ja pull. Sitten Checkouttaa takaisin omalle branchillesi ja tee merge.
 7. Loggaa GitHub tilillesi ja klikkaa Compare & Pull Request projektin remotesta reposta, ja sitten Create new pull request.
-8. Pull reguestisi reviewataan ja lopulta mergetään masteriin.
+8. Pull requestisi tarkistetaan ja lopulta mergetään masteriin.
